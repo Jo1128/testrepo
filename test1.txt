@@ -1,1 +1,1 @@
-This is a git testing file.
+This is a git testing file. Modifying the file to check the status.
